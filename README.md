@@ -1,2 +1,2 @@
 # ArduinoProject_RemoteControlDoorknob
-This code is from an Arduino project I did in college.
+This code was used for a device made for controlling who is authorized to turn the doorknob without opening it by hand.
